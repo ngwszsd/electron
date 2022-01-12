@@ -1,1 +1,4 @@
-# electron
+### run
+```
+electron .
+```
